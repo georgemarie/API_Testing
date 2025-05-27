@@ -64,8 +64,3 @@ Comprehensive API testing for [FakeStoreAPI](https://fakestoreapi.com), covering
 4. Environment variable `base_url` points to production API
 
 ---
-
-## 📂 Included Files
-- `API Testing.postman_collection.json`
-- Environment template (optional)
-- `README.md`
