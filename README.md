@@ -49,7 +49,3 @@ This Postman collection tests key endpoints from the [FakeStore API](https://fak
 - The FakeStore API may not support all listed filters natively.
 
 ---
-
-## 📁 Files Included
-- `FakeStoreAPI.postman_collection.json`
-- `README.md`
